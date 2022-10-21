@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML/CSS/Javascript**
+- 🌱 I’m currently learning **Node.js/React Native**
 
 - 📫 How to reach me **noor.messlmani@gmail.com**
 
