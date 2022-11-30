@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 <h1>< Hello world 👋 I'm Nour Messlmani /></h1>
 <p>On my way to becoming a full stack web developer</p>
-<img align="right" alt="coding" width="500" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormesslmani&label=Profile%20views&color=0e75b6&style=flat" alt="noormesslmani" /> </p>
 
@@ -33,6 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noormesslmani" alt="noormesslmani" /></a> </p>
 
