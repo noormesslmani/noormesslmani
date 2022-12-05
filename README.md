@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning flutter
 
 - 📫 How to reach me **noor.messlmani@gmail.com**
 
