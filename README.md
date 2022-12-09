@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning flutter
+  - 🌱 I’m currently learning **<a href="https://flutter.dev/">flutter</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="20" height="20"/>&nbsp;
 
 - 📫 How to reach me **noor.messlmani@gmail.com**
 
