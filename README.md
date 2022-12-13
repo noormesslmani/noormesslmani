@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 <h1>< Hello world 👋 I'm Nour Messlmani /></h1>
-<p>On my way to becoming a full stack web developer</p>
+<p>A Lifelong Learner</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormesslmani&label=Profile%20views&color=0e75b6&style=flat" alt="noormesslmani" /> </p>
