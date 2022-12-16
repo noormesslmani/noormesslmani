@@ -96,6 +96,14 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
       <br /><strong>Figma</strong>
     </td>
+    <td align="center" height="130" width="130">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"  />
+      <br /><strong>Postman</strong>
+    </td>
+    <td align="center" height="130" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="45" height="45" alt="FireBase" />
+      <br /><strong>Firebase</strong>
+     </td>
   </tr>
 </table>
 <br>
