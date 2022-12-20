@@ -8,6 +8,8 @@
 
 
   - 🌱 I’m currently learning **<a href="https://flutter.dev/">Flutter</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="20" height="20"/> and **<a href="https://nestjs.com/">NestJS</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="20" height="20"/>&nbsp;
+  
+- 🔜 Next step **<a href="https://nextjs.org/">Next.js</a>**
 
 - 📫 How to reach me **noor.messlmani@gmail.com**
 
