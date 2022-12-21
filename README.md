@@ -105,7 +105,11 @@
     <td align="center" height="130" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="45" height="45" alt="FireBase" />
       <br /><strong>Firebase</strong>
-     </td>
+    </td>
+     <td align="center" height="130" width="130">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="45" height="45" alt="NestJS" />
+      <br /><strong>NestJS</strong>
+    </td>
   </tr>
 </table>
 <br>
