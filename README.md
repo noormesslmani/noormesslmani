@@ -107,8 +107,8 @@
       <br /><strong>Firebase</strong>
     </td>
      <td align="center" height="130" width="130">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="45" height="45" alt="NestJS" />
-      <br /><strong>NestJS</strong>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+      <br /><strong>TypeScript</strong>
     </td>
   </tr>
 </table>
