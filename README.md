@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 <h1>< Hello world 👋 I'm Nour Messlmani /></h1>
-<p>A Lifelong Learner</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormesslmani&label=Profile%20views&color=0e75b6&style=flat" alt="noormesslmani" /> </p>
@@ -11,9 +10,9 @@
   
 - 🔜 Next step **<a href="https://nextjs.org/">Next.js</a>**
 
-- 📫 How to reach me **noor.messlmani@gmail.com**
+- 👩‍💻 In my free time I solve <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> problems
 
-- ⚡ Fun fact **I'm a huge cat lover ** &#128049;
+- ⚡ Fun fact I'm a cat lover &#128049;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
