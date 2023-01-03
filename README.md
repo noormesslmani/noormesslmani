@@ -10,7 +10,7 @@
   
 - 🔜 Next step **<a href="https://nextjs.org/">Next.js</a>**
 
-- 👩‍💻 In my free time I solve <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> problems
+- 👩‍💻 In my free time I solve **<a href="https://leetcode.com/noormsl/" target="blank">LeetCode</a>**<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> problems
 
 - ⚡ Fun fact I'm a cat lover &#128049;
 
