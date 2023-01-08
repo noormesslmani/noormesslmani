@@ -6,9 +6,9 @@
 
 
 
-  - 🌱 I’m currently learning **<a href="https://flutter.dev/">Flutter</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="20" height="20"/> and **<a href="https://nestjs.com/">NestJS</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="20" height="20"/>&nbsp;
+  - 🌱 I’m currently learning **<a href="https://flutter.dev/">Flutter</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="20" height="20"/> and **<a href="https://fastapi.tiangolo.com/">FastAPI</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="nestjs" alt="nestjs" width="20" height="20"/>&nbsp;
   
-- 🔜 Next step **<a href="https://nextjs.org/">Next.js</a>**
+- 🔜 Next step **<a href="https://angularjs.org/">AngularJS</a>**
 
 - 👩‍💻 In my free time I solve **<a href="https://leetcode.com/noormsl/" target="blank">LeetCode</a>**<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> problems
 
