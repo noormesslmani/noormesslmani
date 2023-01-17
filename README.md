@@ -111,6 +111,16 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
       <br /><strong>TypeScript</strong>
     </td>
+    </td>
+     <td align="center" height="130" width="130">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
+      <br /><strong>FastAPI</strong>
+    </td>
+   </td>
+     <td align="center" height="130" width="130">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      <br /><strong>PostgreSQL</strong>
+    </td>
   </tr>
 </table>
 <br>
