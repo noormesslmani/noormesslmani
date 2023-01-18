@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nour-messlmani-877089130/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bser%2bfma7smirpgrjrtdz7w%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nour-messlmani-877089130/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bser%2bfma7smirpgrjrtdz7w%3d%3d" height="30" width="40" /></a>
+
 <a href="mailto:noor.messlmani@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Nour" height="30" width="80" /></a>
-<a href="https://leetcode.com/noormsl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noormsl" height="30" width="40" /></a>
+
 </p>
 
 
