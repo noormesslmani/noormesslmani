@@ -6,7 +6,7 @@
 
 
 
-  - 🌱 I’m currently learning **<a href="https://flutter.dev/">Flutter</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="20" height="20"/> and **<a href="https://fastapi.tiangolo.com/">FastAPI</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="nestjs" alt="nestjs" width="20" height="20"/>&nbsp;
+  - 🌱 I’m currently practicing **<a href="https://flutter.dev/">Flutter</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="20" height="20"/>&nbsp;
   
 - 🔜 Next step **<a href="https://angularjs.org/">AngularJS</a>**
 
