@@ -6,9 +6,7 @@
 
 
 
-  - 🌱 I’m currently practicing **<a href="https://flutter.dev/">Flutter</a>**<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="20" height="20"/>&nbsp;
-  
-- 🔜 Next step **<a href="https://angularjs.org/">AngularJS</a>**
+  - 🌱 I’m currently practicing everything
 
 - 👩‍💻 In my free time I solve **<a href="https://leetcode.com/noormsl/" target="blank">LeetCode</a>**<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> problems
 
